@@ -1,0 +1,5 @@
+fastapi==0.105.0
+langchain==0.0.351
+python-dotenv==1.0.0
+streamlit==1.29.0
+uvicorn==0.24.0.post1
